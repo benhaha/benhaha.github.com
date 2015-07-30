@@ -33,7 +33,7 @@ mode：
 
 **0意味着MT不会通知短信接收；1，2会提示，但2会缓存，1会直接抛弃**
 
-mt:
+mt：
 
 -0 无SMS_DELIVER指示发送到TE。
 -1 如果SMS_DELIVER存储在MT，会使用+CMTI URC向DTE指示内存位置。
