@@ -6,12 +6,12 @@ date: 2015-07-30 16:27:31
 
 常见缩写含义：
 
-- ME(Mobile Equipment)
-- MS(Mobile Station)
-- TA(Terminal Adapter)
-- MT(Mobile Termial)
-- DCE(Data Communication Equipment)
-- DTE(Data Terminal Equipment)
+- ME (Mobile Equipment)
+- MS (Mobile Station)
+- TA (Terminal Adapter)
+- MT (Mobile Termial)
+- DCE (Data Communication Equipment)
+- DTE (Data Terminal Equipment)
 
 CNMI命令解析
 
