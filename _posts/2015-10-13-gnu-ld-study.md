@@ -1,7 +1,7 @@
 ---
 layout: post
 title: gnu ld 学习笔记
-date: 2015-07-30 10:27:31
+date: 2015-10-07 22:58:00
 ---
 
 ##GNU ld 学习笔记##
